@@ -1,1 +1,1 @@
-puts "Introduzca el perímetro de la circunferencia"
+puts "Introduzca el perímetro de la circunferencia: "
